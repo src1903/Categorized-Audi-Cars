@@ -4,3 +4,15 @@
 .card-body{
     background-color:#99c9ff;
 }
+
+.carousel-item img{
+    width: 800px;
+    height: 800;
+}
+body{
+    background-image: url("https://www.freepnglogos.com/uploads/audi-logo-2.png");
+    background-attachment : fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
